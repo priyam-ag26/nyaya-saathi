@@ -1,0 +1,7 @@
+T1-deposit-hinglish PASS
+T2-refund-english PASS
+T3-salary-bengali PASS
+T4-cheque PASS
+T5-escalate-arrest PASS
+T6-trap-uncovered PASS
+T7-too-late PASS
